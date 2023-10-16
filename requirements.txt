@@ -11,3 +11,4 @@ future
 matplotlib
 Flask
 gunicorn
+openpyxl
