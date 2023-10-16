@@ -1,0 +1,10 @@
+pandas
+dash
+dash-html-components
+dash-bootstrap-components
+dash_auth
+dash-table
+dash-renderer
+plotly
+numpy
+future
