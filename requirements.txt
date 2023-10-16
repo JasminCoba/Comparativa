@@ -10,3 +10,4 @@ numpy
 future
 matplotlib
 Flask
+gunicorn
