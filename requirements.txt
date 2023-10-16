@@ -8,3 +8,5 @@ dash-renderer
 plotly
 numpy
 future
+matplotlib
+Flask
